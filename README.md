@@ -20,7 +20,8 @@ MySQL
 Xammp server
 
 Installation
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/vaibhavkanawade/php-form.git
+
 Navigate to the project directory: cd php-college-project
 
 Contributing
